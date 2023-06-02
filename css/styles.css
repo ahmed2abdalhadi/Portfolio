@@ -6,10 +6,10 @@ body {
 }
 
 .gradient {
-  background: rgb(0, 97, 242);
+  background: rgb(13, 21, 33);
   background: linear-gradient(
     135deg,
-    rgba(0, 97, 242, 1) 0%,
+    rgb(8, 10, 14) 0%,
     rgba(105, 0, 199, 1) 100%
   );
 }
